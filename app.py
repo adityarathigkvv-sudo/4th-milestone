@@ -90,3 +90,134 @@ if q:
     st.caption(f'Last updated from sources: {src["updated"]}')
     st.markdown('<div class="pipeline"><span class="pipe">Query</span><span class="arrow">→</span><span class="pipe">PII check</span><span class="arrow">→</span><span class="pipe">RAG retrieval</span><span class="arrow">→</span><span class="pipe">Evidence gate</span><span class="arrow">→</span><span class="pipe">Cited answer</span></div>',unsafe_allow_html=True)
 st.markdown('<div class="footer-note">Built as a small RAG prototype for the Mutual Fund FAQ milestone · Official SBI Mutual Fund / SEBI sources only · Facts, not advice</div>',unsafe_allow_html=True)
+
+
+# ─────────────────────────────────────────────────────────────
+# FINAL PRODUCT POLISH OVERRIDES
+# ─────────────────────────────────────────────────────────────
+st.markdown("""
+<style>
+/* Cinematic product skin */
+.stApp {
+  background:
+    radial-gradient(900px 500px at 8% -10%, rgba(56,189,248,.10), transparent 56%),
+    radial-gradient(850px 500px at 100% 0%, rgba(34,197,94,.10), transparent 55%),
+    #070a0f !important;
+}
+.block-container { max-width: 920px !important; padding-top: 1.4rem !important; }
+
+/* Hero becomes a product cover */
+.hero {
+  background: linear-gradient(135deg,#101925 0%,#0b1017 62%,#0d1715 100%) !important;
+  border: 1px solid #253142 !important;
+  border-radius: 26px !important;
+  box-shadow: 0 28px 80px rgba(0,0,0,.34) !important;
+  position: relative !important;
+  overflow: hidden !important;
+}
+.hero:before {
+  content:"";
+  position:absolute;
+  width:260px;height:260px;border-radius:50%;
+  right:-120px;top:-150px;
+  background:rgba(34,197,94,.09);
+  filter:blur(2px);
+}
+.hero h1 { letter-spacing:-1.3px !important; }
+
+/* Scheme cards */
+.scope-card {
+  background: linear-gradient(145deg,#10161f,#0b1017) !important;
+  border:1px solid #222d3b !important;
+  border-radius:16px !important;
+  box-shadow:0 10px 30px rgba(0,0,0,.18) !important;
+}
+.scope-card:hover { border-color:#3a4a5d !important; transform:translateY(-2px); }
+
+/* Notice */
+.notice {
+  background:linear-gradient(90deg,rgba(34,197,94,.065),rgba(14,20,29,.85)) !important;
+  border:1px solid rgba(34,197,94,.18) !important;
+  color:#9aa8b9 !important;
+}
+
+/* Kill the ugly Streamlit white input + red focus line */
+div[data-testid="stTextInput"] > div > div,
+.stTextInput > div > div {
+  background:#0d131b !important;
+  border:1px solid #273443 !important;
+  border-radius:15px !important;
+  box-shadow:0 12px 34px rgba(0,0,0,.24) !important;
+}
+div[data-testid="stTextInput"] > div > div:focus-within,
+.stTextInput > div > div:focus-within {
+  background:#0d131b !important;
+  border:1px solid #35d981 !important;
+  outline:none !important;
+  box-shadow:0 0 0 3px rgba(53,217,129,.07),0 12px 34px rgba(0,0,0,.24) !important;
+}
+div[data-testid="stTextInput"] input,
+.stTextInput input {
+  background:transparent !important;
+  color:#f5f7fa !important;
+  -webkit-text-fill-color:#f5f7fa !important;
+  caret-color:#35d981 !important;
+  border:0 !important;
+  outline:0 !important;
+  box-shadow:none !important;
+}
+div[data-testid="stTextInput"] input::selection,
+.stTextInput input::selection { background:rgba(53,217,129,.25) !important; color:#fff !important; }
+div[data-testid="stTextInput"] input::placeholder,
+.stTextInput input::placeholder { color:#596678 !important; -webkit-text-fill-color:#596678 !important; }
+
+/* Example buttons = dark chips */
+div.stButton > button {
+  background:#0e151e !important;
+  border:1px solid #263241 !important;
+  color:#b8c3d0 !important;
+  border-radius:12px !important;
+  min-height:40px !important;
+  font-size:10px !important;
+  font-weight:700 !important;
+}
+div.stButton > button:hover {
+  background:#141e29 !important;
+  border-color:#3b4c60 !important;
+  color:#ffffff !important;
+}
+
+/* Answer card = product result panel */
+.answer-card {
+  background:linear-gradient(145deg,#111923,#0b1118) !important;
+  border:1px solid #273342 !important;
+  border-radius:20px !important;
+  box-shadow:0 18px 55px rgba(0,0,0,.28) !important;
+}
+.answer-label { color:#5ee996 !important; }
+.answer-text { color:#edf2f7 !important; }
+.source-card {
+  background:#090e14 !important;
+  border:1px solid #202b38 !important;
+}
+.source-card .source-title { color:#d8e0ea !important; }
+.source-card .source-meta { color:#667487 !important; }
+
+/* Pipeline */
+.pipe {
+  background:#0d141c !important;
+  border:1px solid #202b38 !important;
+  color:#748194 !important;
+}
+
+.footer-note { color:#4e5b6d !important; }
+
+/* Streamlit info/warning surfaces */
+div[data-testid="stAlert"] {
+  background:#0e151d !important;
+  border:1px solid #273342 !important;
+  color:#b7c2d0 !important;
+  border-radius:14px !important;
+}
+</style>
+""", unsafe_allow_html=True)
