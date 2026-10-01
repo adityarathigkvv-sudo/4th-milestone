@@ -1,0 +1,1 @@
+Facts-only mutual fund FAQ prototype. This assistant provides factual information from approved public SBI Mutual Fund / SEBI sources and does not provide investment, tax, legal or financial advice. Mutual fund investments are subject to market risks; read scheme-related documents carefully. Do not enter PAN, Aadhaar, OTP, bank/account numbers, email addresses or phone numbers.

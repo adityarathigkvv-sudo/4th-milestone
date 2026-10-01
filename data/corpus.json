@@ -1,0 +1,162 @@
+[
+  {
+    "id": "large_cap_factsheet_feb_2026",
+    "scheme": "SBI Large Cap Fund",
+    "title": "SBI Large Cap Fund Factsheet - February 2026",
+    "url": "https://www.sbimf.com/docs/default-source/scheme-factsheets/all-sbimf-schemes-factsheet-february-2026.pdf?sfvrsn=94669a9a_4",
+    "updated": "28 February 2026",
+    "text": "SBI Large Cap Fund is an open-ended Equity Scheme predominantly investing in large cap stocks. First Tier Benchmark: BSE 100 (TRI). Exit load: 0.25% for exit within 30 days from allotment; 0.10% for exit after 30 days and within 90 days; nil after 90 days. Minimum investment is ₹5,000 and additional investment is ₹1,000. SIP minimums vary by frequency: monthly ₹1,000 or ₹500 under the stated installment conditions; quarterly ₹1,500; semi-annual ₹3,000; annual ₹5,000. The February 2026 factsheet shows the scheme riskometer as Very High. The February 2026 SBI MF TER document lists TER at 1.47% for Regular Plan and 0.79% for Direct Plan."
+  },
+  {
+    "id": "flexicap_factsheet_feb_2026",
+    "scheme": "SBI Flexicap Fund",
+    "title": "SBI Flexicap Fund Factsheet - February 2026",
+    "url": "https://www.sbimf.com/docs/default-source/scheme-factsheets/sbi-flexicap-fund-factsheet-february-2026.pdf?sfvrsn=583b8e9e_2",
+    "updated": "28 February 2026",
+    "text": "SBI Flexicap Fund is an open-ended dynamic equity scheme investing across large cap, mid cap and small cap stocks. First Tier Benchmark: BSE 500 (TRI). Exit load: 0.10% for exit on or before 30 days from allotment and nil after 30 days. Minimum investment is ₹1,000. SIP minimums include ₹500 or ₹1,000 depending on frequency and installment condition; quarterly minimum is ₹1,500, semi-annual ₹3,000 and annual ₹5,000. The February 2026 SBI MF TER document lists TER at 1.66% for Regular Plan and 0.82% for Direct Plan. The scheme factsheet identifies the riskometer as Very High."
+  },
+  {
+    "id": "elss_factsheet_feb_2026",
+    "scheme": "SBI ELSS Tax Saver Fund",
+    "title": "SBI ELSS Tax Saver Fund Factsheet - February 2026",
+    "url": "https://www.sbimf.com/docs/default-source/scheme-factsheets/sbi-elss-tax-saver-fund-factsheet-february-2026.pdf?sfvrsn=1c3c7545_2",
+    "updated": "28 February 2026",
+    "text": "SBI ELSS Tax Saver Fund is an open-ended Equity Linked Saving Scheme with a statutory lock-in period of 3 years. First Tier Benchmark: BSE 500 (TRI). Exit load is NIL. Minimum investment is ₹500 and additional investment is ₹500. Minimum SIP is ₹500 and multiples of ₹500 for the stated SIP frequencies. The scheme riskometer is Very High. The February 2026 SBI MF TER document lists TER at 1.57% for Regular Plan and 0.92% for Direct Plan."
+  },
+  {
+    "id": "ter_feb_2026",
+    "scheme": "All three schemes",
+    "title": "SBI Mutual Fund Total Expense Ratios - 28 February 2026",
+    "url": "https://www.sbimf.com/docs/default-source/scheme-factsheets/all-sbimf-schemes-factsheet-february-2026.pdf?sfvrsn=94669a9a_4",
+    "updated": "28 February 2026",
+    "text": "Total Expense Ratios as on 28 February 2026: SBI Large Cap Fund — Regular 1.47%, Direct 0.79%; SBI Flexicap Fund — Regular 1.66%, Direct 0.82%; SBI ELSS Tax Saver Fund — Regular 1.57%, Direct 0.92%. SBI states that expense ratio includes GST, Base TER and additional expenses as per the applicable SEBI mutual fund regulations."
+  },
+  {
+    "id": "sbi_ways_to_invest",
+    "scheme": "Investor Services",
+    "title": "SBI Mutual Fund - Ways to Invest",
+    "url": "https://www.sbimf.com/ways-to-invest",
+    "updated": "Current public page",
+    "text": "SBI Mutual Fund's Ways to Invest page says investors can get statements of account through the SBI MF website. It lists Account Statement, Capital Gains Statement and Smart Statement. The page explains that users can select 'I am an Existing Investor' and then 'Get Statements' to access statements."
+  },
+  {
+    "id": "sbi_smart_statement",
+    "scheme": "Investor Services",
+    "title": "SBI Mutual Fund - Smart Statement",
+    "url": "https://www.sbimf.com/smart-statement",
+    "updated": "Current public page",
+    "text": "SBI Mutual Fund's Smart Statement page says a Smart Statement can be requested using PAN and registered email ID and is generated for folios mapped with that PAN and email ID. The chatbot must never request or store PAN or email; it can only provide the official page as a navigation link."
+  },
+  {
+    "id": "sbi_nav",
+    "scheme": "Investor Services",
+    "title": "SBI Mutual Fund - Mutual Fund NAV",
+    "url": "https://www.sbimf.com/mutual-fund-nav",
+    "updated": "Current public page",
+    "text": "SBI Mutual Fund provides a Mutual Fund NAV page with options to search for a fund and download historical NAV data. This chatbot does not provide live NAV or calculate performance; it can link users to this official NAV page."
+  },
+  {
+    "id": "sebi_riskometer",
+    "scheme": "Regulatory",
+    "title": "SEBI Investor - Understanding the Riskometer",
+    "url": "https://investor.sebi.gov.in/riskometer.html",
+    "updated": "Current public page",
+    "text": "SEBI Investor explains that the Riskometer is a risk-measuring tool used in the mutual fund industry and that mutual fund schemes display a risk level ranging from Low to Very High. The risk level is reviewed periodically and can change with scheme risk characteristics."
+  },
+  {
+    "id": "sbi_elss_campaign",
+    "scheme": "SBI ELSS Tax Saver Fund",
+    "title": "SBI Mutual Fund - ELSS Tax Saver Fund",
+    "url": "https://www.sbimf.com/campaign/sbi-elss-tax-saver-fund",
+    "updated": "Current public page",
+    "text": "SBI Mutual Fund describes SBI ELSS Tax Saver Fund as an open-ended ELSS and states that it has a 3-year lock-in. The page also provides links to the scheme SID and KIM. The chatbot uses the page only for factual scheme information and does not give tax or investment advice."
+  },
+  {
+    "id": "sbi_elss_general",
+    "scheme": "Investor Education",
+    "title": "SBI Mutual Fund - ELSS Funds",
+    "url": "https://www.sbimf.com/campaign/elss",
+    "updated": "Current public page",
+    "text": "SBI Mutual Fund's ELSS educational page explains that ELSS schemes have a 3-year lock-in period. The page contains educational information about ELSS and tax treatment, but this chatbot avoids tax advice and uses the page only when the user asks for the factual lock-in concept."
+  },
+  {
+    "id": "sbi_elss_learning",
+    "scheme": "Investor Education",
+    "title": "SBI Mutual Fund - ELSS Funds: Tax Saving and Wealth Creation Benefits",
+    "url": "https://www.sbimf.com/learn-about-mutual-funds/elss-funds-tax-saving-wealth-creation",
+    "updated": "Current public page",
+    "text": "SBI Mutual Fund's educational page explains that ELSS has a three-year lock-in and that SIP instalments in an ELSS are locked for three years from their respective allotment dates. The chatbot uses this as educational factual context only."
+  },
+  {
+    "id": "sbi_homepage_backup",
+    "scheme": "Investor Services",
+    "title": "SBI Mutual Fund Homepage / Investor Services",
+    "url": "https://www.sbimf.com/homepage-backup",
+    "updated": "Current public page",
+    "text": "SBI Mutual Fund's public page lists Statement of Account as an investor service, along with other investor services and ways to check NAV and obtain statements."
+  },
+  {
+    "id": "sbi_grievance",
+    "scheme": "Investor Services",
+    "title": "SBI Mutual Fund - Grievance Redressal",
+    "url": "https://www.sbimf.com/grievance-redressal",
+    "updated": "Current public page",
+    "text": "SBI Mutual Fund provides a grievance redressal process and investor contact channels. This page is useful when a user asks where to raise a service complaint. It is not used for investment recommendations."
+  },
+  {
+    "id": "sbi_privacy",
+    "scheme": "Privacy",
+    "title": "SBI Mutual Fund - Privacy Policy",
+    "url": "https://www.sbimf.com/privacy-policy",
+    "updated": "Current public page",
+    "text": "SBI Mutual Fund's privacy policy discusses handling and security of personal information. The prototype independently blocks common PII such as PAN, Aadhaar, account numbers, OTPs, email addresses and phone numbers and does not persist chat input."
+  },
+  {
+    "id": "sbi_factsheet_index",
+    "scheme": "Investor Information",
+    "title": "SBI Mutual Fund Factsheet / e-Factsheet",
+    "url": "https://www.sbimf.com/campaign/efactsheet/efactsheet-jan-2024/",
+    "updated": "Archive page",
+    "text": "SBI Mutual Fund's factsheet archive includes scheme sections and a benchmark/riskometer section. Factsheets are the preferred official documents for scheme-level factual details."
+  },
+  {
+    "id": "sbi_blogs",
+    "scheme": "Investor Education",
+    "title": "SBI Mutual Fund - Our Blogs",
+    "url": "https://www.sbimf.com/learn-about-mutual-funds/our-blogs",
+    "updated": "Current public page",
+    "text": "SBI Mutual Fund publishes investor education articles covering mutual fund concepts, risk, SIPs and other topics. The chatbot may use these only for general factual explanations and does not reproduce advice or performance claims."
+  },
+  {
+    "id": "sbi_ways_to_invest_variant",
+    "scheme": "Investor Services",
+    "title": "SBI Mutual Fund - Ways to Invest (alternate public route)",
+    "url": "https://www.sbimf.com/ways-to-invest?page=JJJ2QQQ",
+    "updated": "Current public page",
+    "text": "SBI Mutual Fund's public Ways to Invest route includes Statement of Account services and investor transaction information. The chatbot can link users to the official service page without collecting credentials or PII."
+  },
+  {
+    "id": "sbi_easy_checkout",
+    "scheme": "Investor Services",
+    "title": "SBI Mutual Fund - Investor Services",
+    "url": "https://www.sbimf.com/easy-checkout?amcCode=SBI",
+    "updated": "Current public page",
+    "text": "SBI Mutual Fund's public investor-service area includes Statement of Account and other investor services. This prototype does not execute transactions and does not ask for payment or account information."
+  },
+  {
+    "id": "sbi_smartassist",
+    "scheme": "Investor Services",
+    "title": "SBI Mutual Fund SmartAssist",
+    "url": "https://www.sbimf.com/smartassist/",
+    "updated": "Current public page",
+    "text": "SBI Mutual Fund's SmartAssist page lists common factual queries such as exit loads, NAV history and statement requests. The prototype is intentionally narrower and answers only from its curated official-source corpus."
+  },
+  {
+    "id": "sbi_large_cap_current_factsheet",
+    "scheme": "SBI Large Cap Fund",
+    "title": "SBI Large Cap Fund - March 2026 Factsheet",
+    "url": "https://www.sbimf.com/docs/default-source/scheme-factsheets/all-sbimf-schemes-factsheet-march-2026.pdf?sfvrsn=4659a7f0_4",
+    "updated": "31 March 2026",
+    "text": "The March 2026 SBI Large Cap Fund factsheet identifies the scheme as an open-ended equity scheme predominantly investing in large cap stocks and shows its riskometer as Very High. It also provides portfolio and scheme information. The prototype avoids performance comparisons."
+  }
+]
