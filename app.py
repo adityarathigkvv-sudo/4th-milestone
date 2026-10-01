@@ -7,8 +7,8 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 st.set_page_config(
-    page_title="SBI MF FactsBot",
-    page_icon="📚",
+    page_title="FundLens — SBI Mutual Fund Facts Assistant",
+    page_icon="◈",
     layout="centered",
     initial_sidebar_state="collapsed",
 )
@@ -173,7 +173,7 @@ def related_questions(q):
 # ---------- PRODUCT UI ----------
 st.markdown("""
 <div class="topbar">
-  <div class="brand"><span class="brand-dot"></span> SBI MF FactsBot</div>
+  <div class="brand"><span class="brand-dot"></span> FundLens</div>
   <div class="live">● LIVE · FACTS ONLY</div>
 </div>
 
